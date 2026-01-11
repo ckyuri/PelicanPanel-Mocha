@@ -1,0 +1,15 @@
+{
+    "id": "catppuccin-mocha-theme",
+    "name": "Catppuccin Mocha Theme",
+    "author": "ckyuri",
+    "version": "1.0.0",
+    "description": "A soothing pastel Catppuccin Mocha theme.",
+    "category": "theme",
+    "url": "https://github.com/ckyuri/catppuccin-mocha-theme",
+    "update_url": null,
+    "namespace": "Catppuccin\\Mocha",
+    "class": "CatppuccinMochaPlugin",
+    "panels": null,
+    "panel_version": null,
+    "composer_packages": null
+}
