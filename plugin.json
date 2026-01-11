@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "description": "A soothing pastel Catppuccin Mocha theme.",
     "category": "theme",
-    "url": "https://github.com/ckyuri/catppuccin-mocha-theme",
+    "url": "https://github.com/ckyuri/PelicanPanel-Mocha",
     "update_url": null,
     "namespace": "Catppuccin\\Mocha",
     "class": "CatppuccinMochaPlugin",
